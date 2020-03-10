@@ -1,0 +1,3 @@
+[submodule "Submodules/--force"]
+	path = Submodules/--force
+	url = https://github.com/appkevin/Sub-Test.git
